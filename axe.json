@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_andesite_mechanica:reinforced_andesite_casing",
+    "create_andesite_mechanica:andesite_sifter"
+  ]
+}

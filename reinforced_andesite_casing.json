@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_andesite_mechanica:block/reinforced_andesite_casing"
+    }
+  }
+}

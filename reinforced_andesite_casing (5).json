@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "item": "create:andesite_casing"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    " A ",
+    "OCO",
+    " A "
+  ],
+  "result": {
+    "count": 2,
+    "id": "create_andesite_mechanica:reinforced_andesite_casing"
+  }
+}
